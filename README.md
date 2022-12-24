@@ -4,7 +4,10 @@
 
 I met an issue that need install `greenlet` to be able to run Prefect workflow.
 
-Track at https://github.com/PrefectHQ/prefect/issues/7978
+Tracking at
+
+- ~~https://github.com/PrefectHQ/prefect/issues/7978~~
+- https://github.com/python-poetry/poetry/issues/7249
 
 ## Observed behavior
 
